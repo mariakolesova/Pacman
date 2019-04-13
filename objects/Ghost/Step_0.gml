@@ -1,5 +1,4 @@
-
-if (Player.start = true){
+if (Player.start = true and !pause_step_flag){
 	speed_player = 5;
 rand = random(4);
 if (x mod 20 = 0&&y mod 20 = 0){

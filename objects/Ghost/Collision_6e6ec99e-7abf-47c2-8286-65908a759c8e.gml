@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-game_restart()
+if (pause_step_flag = false){
+	game_restart();
+}
