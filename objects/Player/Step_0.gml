@@ -7,6 +7,7 @@ if (!collision_line(x-speed_player*3,y-speed_player*1,x-speed_player*3,y+speed_p
 	speed_x = -speed_player;	
 	speed_y = 0;	
 	start = true;
+	sprite_index = Player_spr
 	
 }
 }
@@ -15,6 +16,8 @@ if (keyboard_check(ord("D"))){
 	speed_x = speed_player;	
 	speed_y = 0;	
 	start = true;
+	sprite_index = Player_right
+	
 	}
 }
 if (keyboard_check(ord("W"))){

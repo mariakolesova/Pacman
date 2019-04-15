@@ -1,28 +1,18 @@
 {
-    "id": "29b24b18-c287-4fef-a41a-e97821394bd1",
+    "id": "c2922e0b-24fe-468d-9892-70a6eb1c856a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Player",
+    "name": "Coffee",
     "eventList": [
         {
-            "id": "e4fd13ca-1711-4979-8e1a-97222427e1a1",
+            "id": "97f26f86-1255-41e2-b120-849bc2899204",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "collisionObjectId": "29b24b18-c287-4fef-a41a-e97821394bd1",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "29b24b18-c287-4fef-a41a-e97821394bd1"
-        },
-        {
-            "id": "a48d9208-53b2-4683-aa44-b5590e7b9e75",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "29b24b18-c287-4fef-a41a-e97821394bd1"
+            "eventtype": 4,
+            "m_owner": "c2922e0b-24fe-468d-9892-70a6eb1c856a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3f331dab-2d3c-4c9e-8fd8-1e03c92ce3e3",
+    "spriteId": "2548b034-4b88-4df6-ba28-c05135a7aea5",
     "visible": true
 }

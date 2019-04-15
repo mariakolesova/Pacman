@@ -6,6 +6,7 @@ if (rand >= 0&&rand < 1){
 if (!collision_line(x-speed_player*3,y-speed_player*1,x-speed_player*3,y+speed_player*1,Wall,0,0)){
 	speed_x = -speed_player;	
 	speed_y = 0;	
+	sprite_index = Ghost
 	
 }
 }
@@ -13,6 +14,7 @@ if (rand >= 1&&rand < 2){
 	if (!collision_line(x+speed_player*2,y-speed_player*1,x+speed_player*2,y+speed_player*1,Wall,0,0)){
 	speed_x = speed_player;	
 	speed_y = 0;	
+	sprite_index = Ghost_Right
 	}
 }
 if (rand >= 2&&rand < 3){
