@@ -63,6 +63,30 @@
             }
         },
         {
+            "Key": "12c2500b-d6a8-4c9c-87b1-a580e17d6d97",
+            "Value": {
+                "id": "7f9e3f8f-fa1e-4f5b-9120-aa38a43ccbf9",
+                "resourcePath": "fonts\\other_menu_font\\other_menu_font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "17859483-5d50-43fb-999c-10c9a2123bf1",
+            "Value": {
+                "id": "212471a9-8dcd-451b-b90f-5e0594793d9a",
+                "resourcePath": "sounds\\snd_menu_switch\\snd_menu_switch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "1a2ec6e5-7f24-4be2-bb6a-466b5519b068",
+            "Value": {
+                "id": "e8c3868e-8f1e-4624-98be-7fef84991334",
+                "resourcePath": "objects\\pause_menu\\pause_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24d7298f-ac58-440a-855a-78aea6a9468a",
             "Value": {
                 "id": "b2fca0e5-0c01-4d1f-96c3-8c46784797f9",
@@ -76,6 +100,14 @@
                 "id": "9434491e-69cd-45b2-9ee9-aff10679f89e",
                 "resourcePath": "sprites\\cofee_spr\\cofee_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25ed6b30-19e4-41d9-84e1-9864213407f5",
+            "Value": {
+                "id": "96512528-b725-489c-be26-b1f3bc2068ba",
+                "resourcePath": "sounds\\snd_menu_enter\\snd_menu_enter.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -138,7 +170,7 @@
             "Key": "4863d3a3-9ebc-43df-9beb-328d89314f59",
             "Value": {
                 "id": "3c7bf1f6-b115-415c-97aa-2e7a2db2d3f3",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rMainRoom\\rMainRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -148,6 +180,14 @@
                 "id": "f762d8d5-f027-46cd-b12a-4ad980b5ce50",
                 "resourcePath": "views\\4ba5c103-d4d0-4b00-a98c-735d2e9da093.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4fbf63c5-24ba-47a6-aa7b-dc10a9022048",
+            "Value": {
+                "id": "28bb9a82-093f-4a2a-9f91-6203a3f0b4b9",
+                "resourcePath": "fonts\\font_main\\font_main.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -199,6 +239,14 @@
             }
         },
         {
+            "Key": "7f7929d3-bd06-4cd4-8ac3-ae6340c1bfc2",
+            "Value": {
+                "id": "e67daab9-2441-4809-a25f-28bdd4ab700f",
+                "resourcePath": "rooms\\rHelp\\rHelp.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "82145160-9b7b-400d-938d-deb3345b3b20",
             "Value": {
                 "id": "85b4d427-222d-454a-9db0-3dd80f120063",
@@ -223,11 +271,27 @@
             }
         },
         {
+            "Key": "84a02338-2969-4a60-a44b-7c0255de290f",
+            "Value": {
+                "id": "3439228c-786e-49e1-8398-6adbe02308a7",
+                "resourcePath": "objects\\menu\\menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8b49abd8-573c-47dc-83b5-1a2e40181bc0",
             "Value": {
                 "id": "0a60ec3d-2a64-4f56-824d-ad6fd2ca01a5",
                 "resourcePath": "views\\8b49abd8-573c-47dc-83b5-1a2e40181bc0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "922d91d2-9075-4d03-8f26-1c99e4dc1bfa",
+            "Value": {
+                "id": "9a651c98-5dc6-464e-b281-040fab757d98",
+                "resourcePath": "rooms\\rMenu\\rMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -268,6 +332,14 @@
                 "id": "e9e30988-7df0-4240-b6a8-76d4b26df7a2",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a54dd336-8a4e-4f9b-aa39-1964e6192732",
+            "Value": {
+                "id": "745c34ef-6565-4335-8126-d81d83a0ccfb",
+                "resourcePath": "objects\\help\\help.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -372,6 +444,14 @@
                 "id": "e3762302-d7c3-41d0-8190-2a3c41d4982a",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f715eb83-992e-49b3-a13c-bc28d242e98e",
+            "Value": {
+                "id": "dc7aef88-2154-4a08-af46-814ff6623ee3",
+                "resourcePath": "rooms\\rPauseMenu\\rPauseMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
