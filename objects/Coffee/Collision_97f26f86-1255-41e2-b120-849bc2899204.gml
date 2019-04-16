@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
+Ghost.ability_to_stop_activate = true
 instance_destroy();
