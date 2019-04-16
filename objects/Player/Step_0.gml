@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+if (!stop_flag){
 speed_player = 5;
 if (x mod 20 = 0&&y mod 20 = 0){
 if (keyboard_check(ord("A"))){
@@ -74,6 +75,7 @@ else{
 	prev_y = y;
  x += speed_x;
  y += speed_y;
+}
 }
 }
 }
