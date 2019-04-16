@@ -1,2 +1,2 @@
-Ghost.ability_to_stop_activate = true
+Ghost.count_pause += 1;
 instance_destroy();

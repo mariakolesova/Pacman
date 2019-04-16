@@ -12,7 +12,7 @@ objects = array_length_1d(object_names);
 
 text[0] = "    Avoid the cat, he wants to eat a duck!"
 text[1] = "    Any future bun";
-text[2] = "    Any future bun";
+text[2] = "    If u eat me, u can stop the Ghost once(press Space)";
 text[3] = "    Magical movement";
 text[4] = "    Press ESC to enter the menu";
 
