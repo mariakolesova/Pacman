@@ -1,4 +1,5 @@
-audio_play_sound(snd_menu_enter, 2, false);
+audio_play_sound(start_beep, 2, false);
+
 switch(menu_index){
 	case 0:
 		room_goto(rMainRoom);

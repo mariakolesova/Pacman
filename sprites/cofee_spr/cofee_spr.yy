@@ -56,7 +56,7 @@
     ],
     "origin": 4,
     "originLocked": false,
-    "playbackSpeed": 15,
+    "playbackSpeed": 1,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
     "sepmasks": false,
@@ -135,7 +135,7 @@
         4287365357,
         4284159214,
         4279176094,
-        4278457395,
+        4278525519,
         4278870691,
         4278231211,
         4281367321
